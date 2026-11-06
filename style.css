@@ -1,0 +1,55 @@
+.cuadro-bocareal{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+background-color:blue;
+color:yellow;
+flex-wrap: wrap;
+gap: 20px;
+}
+
+.cuadro-livmilan{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: red;
+    color: white;
+    }
+
+    .cuadro-barcaunited{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-color: red;
+        color: blue;
+        }
+
+        .cuadro-riverflamengo{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color:red;
+            color: black;
+            }
+
+            .cuadro-urubrasil{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 100vh;
+                background-color: cyan;
+                color: white;
+                }
+
+                .cuadro-arging{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    height: 100vh;
+                    background-color: cadetblue;
+                    color:white;
+                    }
