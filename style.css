@@ -16,7 +16,9 @@ gap: 20px;
     height: 100vh;
     background-color: red;
     color: white;
-    }
+    flex-wrap: wrap;
+    gap: 20px;
+}
 
     .cuadro-barcaunited{
         display: flex;
@@ -25,6 +27,8 @@ gap: 20px;
         height: 100vh;
         background-color: red;
         color: blue;
+        flex-wrap: wrap;
+        gap: 20px;
         }
 
         .cuadro-riverflamengo{
@@ -34,6 +38,8 @@ gap: 20px;
             height: 100vh;
             background-color:red;
             color: black;
+            flex-wrap: wrap;
+            gap: 20px;
             }
 
             .cuadro-urubrasil{
@@ -43,6 +49,8 @@ gap: 20px;
                 height: 100vh;
                 background-color: cyan;
                 color: white;
+                flex-wrap: wrap;
+                gap: 20px;
                 }
 
                 .cuadro-arging{
@@ -52,4 +60,6 @@ gap: 20px;
                     height: 100vh;
                     background-color: cadetblue;
                     color:white;
+                    flex-wrap: wrap;
+                    gap: 20px;
                     }
